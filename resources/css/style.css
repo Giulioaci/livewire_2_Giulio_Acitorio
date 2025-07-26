@@ -1,0 +1,9 @@
+.heightCustom{
+  height: 100vh;
+}
+
+.cardImg{
+  height: 18rem;
+  object-fit: cover;
+}
+   
