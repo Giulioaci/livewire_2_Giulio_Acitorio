@@ -23,7 +23,7 @@ class ArticleCreate extends Component
     ];
 
     protected $messages = [
-        '*.required' => 'il campo : attribute è richiesto',
+        '*.required' => 'il campo : Nome è richiesto',
         
         ];
 
