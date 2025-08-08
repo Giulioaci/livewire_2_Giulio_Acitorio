@@ -5,11 +5,16 @@
                 <h1 class="display-4 text-center">Articoli</h1>
             </div>
         </div>
+
         <div class="row justify-content-center">
             <div class="col-12">
-                <x-flash-messages /> 
+                <x-flash-messages />
             </div>
         </div>
+
         <livewire:article-index />
     </div>
 </x-layout>
+
+
+
